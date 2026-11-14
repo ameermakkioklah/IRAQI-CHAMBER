@@ -1,0 +1,6 @@
+{
+  "name": "Chamber & Hand — 3D Roulette RPS",
+  "description": "High-stakes 3D Roulette Rock-Paper-Scissors duel against a clockwork automaton with a 6-chamber revolver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
